@@ -1,12 +1,42 @@
-# Tags: latest, 2.3.8-debian-10-r37, 2.3.8, 2-debian-10, 2
+# Tags: latest, 2.3.8-debian-10-r47, 2.3.8, 2-debian-10, 2
 FROM bitnami/cassandra-exporter:latest
-FROM bitnami/cassandra-exporter:2.3.8-debian-10-r37
+FROM bitnami/cassandra-exporter:2.3.8-debian-10-r47
 FROM bitnami/cassandra-exporter:2.3.8
 FROM bitnami/cassandra-exporter:2-debian-10
 FROM bitnami/cassandra-exporter:2
 
 # Tags: _
 FROM bitnami/cassandra-exporter:_
+
+# Tags: 2.3.8-debian-10-r46
+FROM bitnami/cassandra-exporter:2.3.8-debian-10-r46
+
+# Tags: 2.3.8-debian-10-r45
+FROM bitnami/cassandra-exporter:2.3.8-debian-10-r45
+
+# Tags: 2.3.8-debian-10-r44
+FROM bitnami/cassandra-exporter:2.3.8-debian-10-r44
+
+# Tags: 2.3.8-debian-10-r43
+FROM bitnami/cassandra-exporter:2.3.8-debian-10-r43
+
+# Tags: 2.3.8-debian-10-r42
+FROM bitnami/cassandra-exporter:2.3.8-debian-10-r42
+
+# Tags: 2.3.8-debian-10-r41
+FROM bitnami/cassandra-exporter:2.3.8-debian-10-r41
+
+# Tags: 2.3.8-debian-10-r40
+FROM bitnami/cassandra-exporter:2.3.8-debian-10-r40
+
+# Tags: 2.3.8-debian-10-r39
+FROM bitnami/cassandra-exporter:2.3.8-debian-10-r39
+
+# Tags: 2.3.8-debian-10-r38
+FROM bitnami/cassandra-exporter:2.3.8-debian-10-r38
+
+# Tags: 2.3.8-debian-10-r37
+FROM bitnami/cassandra-exporter:2.3.8-debian-10-r37
 
 # Tags: 2.3.8-debian-10-r36
 FROM bitnami/cassandra-exporter:2.3.8-debian-10-r36
@@ -64,33 +94,3 @@ FROM bitnami/cassandra-exporter:2.3.8-debian-10-r19
 
 # Tags: 2.3.8-debian-10-r18
 FROM bitnami/cassandra-exporter:2.3.8-debian-10-r18
-
-# Tags: 2.3.8-debian-10-r17
-FROM bitnami/cassandra-exporter:2.3.8-debian-10-r17
-
-# Tags: 2.3.8-debian-10-r16
-FROM bitnami/cassandra-exporter:2.3.8-debian-10-r16
-
-# Tags: 2.3.8-debian-10-r15
-FROM bitnami/cassandra-exporter:2.3.8-debian-10-r15
-
-# Tags: 2.3.8-debian-10-r14
-FROM bitnami/cassandra-exporter:2.3.8-debian-10-r14
-
-# Tags: 2.3.8-debian-10-r13
-FROM bitnami/cassandra-exporter:2.3.8-debian-10-r13
-
-# Tags: 2.3.8-debian-10-r12
-FROM bitnami/cassandra-exporter:2.3.8-debian-10-r12
-
-# Tags: 2.3.8-debian-10-r11
-FROM bitnami/cassandra-exporter:2.3.8-debian-10-r11
-
-# Tags: 2.3.8-debian-10-r10
-FROM bitnami/cassandra-exporter:2.3.8-debian-10-r10
-
-# Tags: 2.3.8-debian-10-r9
-FROM bitnami/cassandra-exporter:2.3.8-debian-10-r9
-
-# Tags: 2.3.8-debian-10-r8
-FROM bitnami/cassandra-exporter:2.3.8-debian-10-r8
